@@ -1,6 +1,9 @@
-## A09 – Discover privacy technique used online
+# A09 – Discover privacy technique used online
 
 
 One online privacy technique I discovered is called Hide My Email. I have always been a big technology follower, so I regularly watch new product releases and feature updates, especially Apple’s. During Apple’s Worldwide Developers Conference (WWDC) in 2021, this feature was introduced, and it immediately caught my attention. Since then, I have used it whenever possible, especially on websites or apps that I did not fully trust with my real email address. What I found interesting is that instead of giving away a personal email every time I sign up somewhere, Hide My Email creates a random email address that still forwards messages to my actual inbox. Apple explains that this allows users to receive emails without revealing their real address to the website or service. I found this to be a very smart online privacy technique because many websites ask for an email address even when they do not really need to know a person’s true identity, and this feature helps reduce that unnecessary exposure.
 
 In simple terms, the privacy technique works by placing a private relay address between the user and the website. The website only receives the randomly generated email address, while the forwarded messages still reach the real inbox. This means the actual email stays hidden, which helps reduce spam, unwanted marketing, and the risk of that address being shared or misused later. Apple also explains that if the user no longer wants emails from that website or app, the relay address can simply be turned off, which gives much more control over who can still contact them. What makes Hide My Email such a strong privacy example is that it protects personal information right at the moment of collection. Instead of handing over real data first and depending on the website to handle it properly afterwards, it limits what the website gets in the first place. That is why I found it to be one of the most practical and well-designed online privacy techniques.
+
+
+### *Evidences attached on this Github Repository sub-folder*
