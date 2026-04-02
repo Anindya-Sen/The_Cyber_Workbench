@@ -1,4 +1,4 @@
-## A12 – Discover 5 unique offline security tools
+# A12 – Discover 5 unique offline security tools
 
 
 One digital security tool I found very useful is WinRAR, especially when files need to be compressed and protected before being stored or shared. At first, it just looks like a normal file-compression program, but after exploring it more, I found that it can also encrypt archives with a password. WinRAR explains that it uses AES-256 encryption, and it can even encrypt the file names inside the archive, which makes it harder for other people to know what is inside without the correct password. In simple terms, the security works by locking the archive with a password and turning the contents into unreadable encrypted data. That means even if someone gets the file, they still should not be able to open or understand it without the right password. I found this to be a very practical day-to-day security tool because it does not only reduce file size, but also adds protection to the files themselves.
@@ -11,7 +11,8 @@ Another digital security and privacy tool I recently found out about was BleachB
 
 A simple but useful offline security tool is the auto-lock timer on a phone or laptop. This is the setting that automatically locks the device after a short period of inactivity. I found this important because many people forget to manually lock their device when they step away for just a few minutes. In simple terms, the security works by making the device return to its locked state on its own, so another person cannot easily use it if it has been left unattended. Even though it is such a basic feature, it still works as a strong security tool because it reduces the chance of someone else getting easy access to an unlocked phone or computer. It is simple, but in daily life it is one of the easiest ways to protect privacy and prevent unnecessary access.
 
-Reference link: https://www.win-rar.com/encryption-technology-winrar.html?&L=0
-https://veracrypt.io/en/Home.html
-https://www.malwarebytes.com/solutions/virus-scanner
-https://www.bleachbit.org
+### Reference link: https://www.win-rar.com/encryption-technology-winrar.html?&L=0
+### Reference link: https://veracrypt.io/en/Home.html
+### Reference link: https://www.malwarebytes.com/solutions/virus-scanner
+### Reference link: https://www.bleachbit.org
+### *Evidences attached on this Github Repository sub-folder*
