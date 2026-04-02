@@ -1,8 +1,10 @@
-## A05 – Discover cryptographic implementation used online
+# A05 – Discover cryptographic implementation used online
 
 
 One cryptographic implementation I discovered online is HTTPS, which I usually notice through the padlock sign in the browser when opening websites such as university portals, banking sites, or shopping platforms. Before learning this topic, I used to think that the padlock only meant the website was “safe,” but after studying cryptography I understood that it actually shows a real security process happening in the background. Transport Layer Security (TLS), is what protects the communication between my browser and the website so that sensitive information like passwords, card details, or personal data is not easily read or changed while being sent over the internet. I also found out from Mozilla Developer Network (MDN) that HTTPS is basically the secure version of HTTP because it uses TLS to create that protected connection.
 
 The cryptography here works by making the browser and the website create a secure private connection before any important information is sent. First, the website proves its identity using a digital certificate, so the browser can check that it is connecting to the real website and not a fake one. Then they agree on a secret key for that session. After that, the data sent between them, such as passwords, card details, or personal information, is turned into unreadable encrypted text while it travels across the internet. This means that even if someone intercepts the traffic, they should not be able to understand it. At the same time, TLS also helps make sure the data is not secretly changed during transmission. This shows that the cryptography in HTTPS is important because it protects privacy, trust, and data integrity every time a secure website is used.
 
-Reference link: https://developer.mozilla.org/enUS/docs/Web/Security/Defenses/Transport_Layer_Security
+
+### Reference link: https://developer.mozilla.org/enUS/docs/Web/Security/Defenses/Transport_Layer_Security
+### *Evidences attached on this Github Repository sub-folder*
