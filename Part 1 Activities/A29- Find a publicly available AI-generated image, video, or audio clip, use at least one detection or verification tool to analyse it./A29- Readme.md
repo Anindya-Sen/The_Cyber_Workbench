@@ -1,4 +1,4 @@
-## A29- Find a publicly available AI-generated image, video, or audio clip, use at least one detection or verification tool to analyse it.
+# A29- Find a publicly available AI-generated image, video, or audio clip, use at least one detection or verification tool to analyse it.
 
 
 For this activity, I chose to work with a publicly available AI-generated image taken from a BBC News article about AI-created photographs. I found this source useful because it was easy to access, openly discussed AI-generated imagery, and clearly stated that the images in the article were created using AI software on the NightCafe website. The article also explained that the people shown were not real and that the images had been generated from text prompts, which made it a suitable source for this task. I downloaded one of those AI-generated face images from the article and then analysed it using two separate AI-image detection websites so that I could compare the outputs rather than relying on only one result.
@@ -11,4 +11,5 @@ After using the two detector websites, I also checked the metadata of the image 
 
 Overall, this activity helped me understand that verifying AI-generated media works best when using multiple methods together. The BBC source gave me a reliable origin for the AI image and confirmed that it was created from AI text prompts. Then the two detection tools, Sightengine and Decopy AI, both analysed the image and gave strong results pointing to it being AI-generated, while also giving useful detail about how they reached that conclusion. Finally, the metadata comparison in Kali Linux added another technical layer, showing that file properties can sometimes provide extra context, even if they are not enough on their own. What I found most useful from this task is that it is better to combine the source of the image, the detector outputs, and the metadata rather than trusting only one tool. This made the activity feel much more practical and realistic.
 
-Reference link: https://www.bbc.com/news/uk-wales-65562658
+### Reference link: https://www.bbc.com/news/uk-wales-65562658
+### *Evidences attached on this Github Repository sub-folder*
