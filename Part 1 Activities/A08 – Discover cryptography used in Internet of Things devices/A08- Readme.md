@@ -6,5 +6,5 @@ At the place where I currently live, the home-owner had already installed a Ring
 In simple language, the cryptography here works like a locked container with a key that only the authorised user can use. Normally, the camera sends and stores data with standard encryption methods, but with E2EE enabled, the recordings are protected in a way that only the enrolled device with the correct passphrase can unlock and view them. So even if the video passes through online systems or is stored remotely, it stays in a protected form that is not meant to be readable by outsiders. What makes this a strong IoT example is that it applies cryptography to something very practical and everyday: home video footage. Instead of only protecting messages or payments, the encryption here is protecting personal recordings from a device that is always connected and always collecting sensitive visual information.
 
 ### Reference link: https://ae-en.ring.com/pages/privacy
-### https://ring.com/au/en/support/articles/7e3lk/using-video-end-to-end-encryption-e2ee
+### Reference link: https://ring.com/au/en/support/articles/7e3lk/using-video-end-to-end-encryption-e2ee
 ### *Evidences attached on this Github Repository sub-folder*
