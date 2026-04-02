@@ -1,4 +1,4 @@
-## A25- Design and implement a privacy-preserving technique for an appropriate application.
+# A25- Design and implement a privacy-preserving technique for an appropriate application.
 
 
 One privacy problem that stood out to me is how easily people share screenshots from their laptops without realising how much private information may still be visible in them. This can happen in very normal situations such as sharing an email screenshot, a booking confirmation, a payment page, a student portal page, or even a simple chat screenshot while asking for help. At first, the user may think they are only sharing the main part of the image, but the screenshot may still contain names, email addresses, phone numbers, IDs, profile photos, booking numbers, QR codes, or private chat messages. I wanted to solve this problem because it feels very common, very realistic, and also very easy to miss in daily life. Instead of only writing about it in theory, I decided to design and implement a small AI-based privacy-preserving technique that could actually help someone check a screenshot before sharing it.
@@ -11,4 +11,6 @@ I then tested the GPT on multiple screenshots to see whether it worked properly.
 
 What I found most valuable about this activity is that it showed me that a privacy-preserving technique does not always need to be a large software product or a very complex cryptographic system. It can also be a focused tool that solves a real privacy problem in an appropriate application. In this case, the application was screenshot sharing on a laptop, and the privacy-preserving technique was the use of an AI checker that helps users notice private information before it is exposed. I think this fits the task very well because I did not only identify the privacy issue, but also designed, implemented, tested, and improved a working solution for it. Overall, this activity felt meaningful because it was practical, easy to demonstrate with real examples, and directly connected to a problem that many people face in everyday digital life without even noticing it.
 
-Reference link: https://chatgpt.com/g/g-69cc2dd87bb48191810d1333d7326d0b-privacy-screenshot-checker
+
+### Reference link: https://chatgpt.com/g/g-69cc2dd87bb48191810d1333d7326d0b-privacy-screenshot-checker
+### *Evidences attached on this Github Repository sub-folder*
