@@ -1,4 +1,4 @@
-## A11 – Discover 5 unique access control devices
+# A11 – Discover 5 unique access control devices
 
 
 One unique access control device is the keypad reader. This type of device asks the user to enter a PIN code before granting entry, so instead of using something a person has, it depends on something a person knows. Avigilon’s keypad reader information explains that keypad access can be used for credentialed users and visitors, which shows that it is useful in places where access needs to be controlled but not everyone has a card. I found this device different from a card reader because the security depends on remembering a code and entering it correctly, which makes it more flexible in some situations but also more dependent on the code staying private.
@@ -10,3 +10,6 @@ A third  device I found different was the elevator access control reader. Kisi�
 A very modern access control device is the mobile-enabled reader. This type of system allows a person to use their phone or wearable device as the credential instead of carrying a separate card. HID describes mobile-enabled readers as supporting smartphone and wearable credentials, and Kisi also explains that users can unlock doors through a mobile app. I found this device unique because it changes access control from something physical like a card into something linked to a device people already carry every day. It also makes access feel more convenient, while still keeping the idea of authorised entry based on a recognised credential.
 
 Another strong access control device is the QR code / barcode visitor access reader. This is used in visitor management systems where a person receives a temporary QR code or barcode and then scans it to gain entry to a building or controlled area. Brivo’s visitor-management integration pages explain that visitors can be managed using QR codes and barcodes, which shows that this is a real access control method rather than just a ticketing feature. I found this device useful because it is different from permanent staff access systems like cards or biometrics. It is designed for short-term, controlled access, where someone can be given entry for a limited purpose without giving them a permanent credential. That makes it a strong example of access control because it shows how access can also be temporary, digital, and highly specific to one person or visit.
+
+
+### *Evidences attached on this Github Repository sub-folder*
