@@ -1,4 +1,4 @@
-## A04 – Discover a vulnerable website
+# A04 – Discover a vulnerable website
 
 For this activity, I looked at a website that felt relevant to me because I had previously worked in car-rental administration and had seen how important websites are in daily business operations. That experience made me curious about what happens behind the normal front-end of a business website, especially when there is no clearly visible dedicated cybersecurity support constantly reviewing it. Because of that, I decided to examine the site more carefully instead of only judging it from its appearance. To do this, I used Nikto in Kali Linux. Nikto is an open-source web server scanner that checks websites for common security weaknesses such as unsafe files, weak configurations, missing protections, and other exposed details. I used the command “nikto -h https://fusionrentals.com.au”, which tells Nikto to scan the target host over HTTPS and return any important findings. I found this tool useful because it gave me a practical way to inspect the website’s security posture instead of only looking at its visible pages.
 
