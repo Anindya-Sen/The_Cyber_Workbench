@@ -1,4 +1,4 @@
-## A13 – Discover 5 unique online security tools
+# A13 – Discover 5 unique online security tools
 
 
 A digital security tool I use often is Google Authenticator. I came across it when setting up extra protection for my online accounts, and I found it especially useful because passwords alone do not always feel like enough anymore. Google explains that the app generates one-time verification codes for accounts using 2-Step Verification, and these codes can still be generated even without internet or mobile service. What makes this tool strong is that it adds another layer of protection beyond just the password. In simple terms, even if someone somehow learns the password, they would still need the code generated on the authorised device to get in. Another thing that makes it secure is that the codes are time-based, so they keep changing and only stay valid for a short period. This makes it much harder for someone to reuse an old code later. I found it to be a very practical online security tool because it is simple to use, but it gives important protection to email accounts, social media, and other online services.
@@ -11,8 +11,9 @@ Another widely used online security tool is Apple Passwords, which works with iC
 
 A very useful online security tool I recently learned about is Have I Been Pwned. This website allows people to check whether their email address has appeared in known data breaches. I found it important because it helps users discover something they may not have realised on their own — that their information might already have been exposed somewhere online. In simple terms, it works like an early warning tool. If a person finds that their email has been involved in a breach, they can respond by changing passwords, checking which accounts may be affected, and improving their security before the problem becomes worse. What makes this tool stand out to me is that it gives users information they might never have known otherwise, and that information can be very important for preventing future account compromise. That is why I think it is a strong online security tool: it supports awareness, early action, and better account protection.
 
-Reference link: https://support.google.com/accounts/answer/1066447
-https://support.google.com/accounts/answer/6197437
-https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/
-https://support.apple.com/en-au/guide/iphone/iph82d6721b2/ios
-https://haveibeenpwned.com/About
+### Reference link: https://support.google.com/accounts/answer/1066447
+### Reference link: https://support.google.com/accounts/answer/6197437
+### Reference link: https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/
+### Reference link: https://support.apple.com/en-au/guide/iphone/iph82d6721b2/ios
+### Reference link: https://haveibeenpwned.com/About
+### *Evidences attached on this Github Repository sub-folder*
