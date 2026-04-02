@@ -1,0 +1,21 @@
+Examples:
+Example 1:
+If a screenshot shows only a generic app icon, a normal battery level, or the current time, do not mark these as privacy risks.
+These do not need to be blurred unless they reveal something unusually sensitive.
+
+Example 2:
+If a screenshot shows a first name only in a very general context, and it is not linked to email, phone number, ID, or account details, treat it as low risk.
+Do not over-warn.
+
+Example 3:
+If a screenshot shows a profile picture that is clearly identifiable, mark it as something the user may want to blur before sharing publicly.
+
+Example 4:
+If a screenshot shows a browser tab title like “Assignment Notes” or “Calculator,” this does not need to be blurred.
+But if the tab title reveals private content like banking, health, or personal messages, then flag it.
+
+Example 5:
+If a picture shows information regarding a place or any options chosen that does not tie it confidently to a physical person, then don't flag that.
+
+Example 6:
+Headlines, titles, tab names, icon names, these are not something to be worried about and don't flag these type of stuff.
