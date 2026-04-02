@@ -1,4 +1,4 @@
-## A20- Participate in a discussion with your friends about cybersecurity event.
+# A20- Participate in a discussion with your friends about cybersecurity event.
 
 
 While researching for my cybersecurity portfolio, I came across a very interesting 2024 AWS-related case that immediately caught my attention. At first, I thought it was going to be a normal story about a big cloud provider getting hacked, but the more I read, the more unusual and educational it felt. As part of the portfolio instruction, I decided to share it with my friend Joy and discuss it with him, because it seemed like the kind of incident that connects very well to the things we learn in cybersecurity. What made the case so interesting to both of us was that AWS itself was not the main thing being hacked. Instead, attackers were finding publicly exposed .env files on badly configured websites and servers, then stealing the AWS credentials stored inside them. Unit 42 explained that the attackers targeted around 110,000 domains and collected over 90,000 unique environment variables, which made us realise how dangerous careless secret storage can be. 
@@ -11,7 +11,8 @@ Another thing Joy and I discussed was the scale of the incident, which made it f
 
 By the end of the discussion, we had moved naturally from “what happened” to “what could have prevented it.” From the sources we read, the clearest lessons were to avoid exposing .env files publicly, store secrets more safely, rotate credentials quickly, reduce permissions using least privilege, and monitor cloud activity more carefully. Joy and I both felt that this incident was one of the most interesting examples of modern cloud security because it connected many important ideas in one real case: credential theft, exposed secrets, privilege misuse, lateral movement, extortion, and cloud monitoring. Overall, discussing this case with Joy made the topic much more memorable, because it felt less like reading theory and more like seeing how small security mistakes can turn into a very large real-world incident.
 
-Reference link: https://www.techradar.com/pro/security/aws-customers-hit-by-major-cyberattack-which-then-stored-stolen-credentials-in-plain-sight
-https://cloudsecurityalliance.org/blog/2024/09/27/massive-nhi-attack-230-million-cloud-environments-were-compromised
-https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html
-https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
+### Reference link: https://www.techradar.com/pro/security/aws-customers-hit-by-major-cyberattack-which-then-stored-stolen-credentials-in-plain-sight
+### Reference link: https://cloudsecurityalliance.org/blog/2024/09/27/massive-nhi-attack-230-million-cloud-environments-were-compromised
+### Reference link: https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html
+### Reference link: https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/
+### *Evidences attached on this Github Repository sub-folder*
