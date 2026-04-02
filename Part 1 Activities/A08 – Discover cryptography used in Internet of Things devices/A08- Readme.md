@@ -1,9 +1,10 @@
-## A08 – Discover cryptography used in Internet of Things devices
+# A08 – Discover cryptography used in Internet of Things devices
 
 
 At the place where I currently live, the home-owner had already installed a Ring camera, so it became a very practical example for me when thinking about Internet of Things devices. Since it is a smart device that is always connected and is constantly handling video footage from around the house, it made me curious about how its security actually works. That is what led me to explore it further, and I found that Ring devices already use built-in protections in their normal system. Ring states that video data is encrypted in transit and at rest using AES (Advanced Encryption Standard), TLS (Transport Layer Security), and in some device-to-device communication SRTP (Secure Real Time Protocol). However, the feature that stood out more to me was the optional Video End-to-End Encryption (E2EE) setting, because it adds a stronger privacy-focused layer on top of the normal protection. Ring explains that when E2EE is turned on, the user creates a passphrase, and only the user’s enrolled mobile device can use that passphrase to access the encrypted video. This means that even Ring itself cannot view that content. I found this to be a strong example of cryptography in IoT because it shows that a home camera is not only recording video, but is also using encryption to control exactly who can and cannot read that footage.
 
 In simple language, the cryptography here works like a locked container with a key that only the authorised user can use. Normally, the camera sends and stores data with standard encryption methods, but with E2EE enabled, the recordings are protected in a way that only the enrolled device with the correct passphrase can unlock and view them. So even if the video passes through online systems or is stored remotely, it stays in a protected form that is not meant to be readable by outsiders. What makes this a strong IoT example is that it applies cryptography to something very practical and everyday: home video footage. Instead of only protecting messages or payments, the encryption here is protecting personal recordings from a device that is always connected and always collecting sensitive visual information.
 
-Reference link: https://ae-en.ring.com/pages/privacy
-https://ring.com/au/en/support/articles/7e3lk/using-video-end-to-end-encryption-e2ee
+### Reference link: https://ae-en.ring.com/pages/privacy
+### https://ring.com/au/en/support/articles/7e3lk/using-video-end-to-end-encryption-e2ee
+### *Evidences attached on this Github Repository sub-folder*
