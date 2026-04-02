@@ -12,4 +12,6 @@ After using the two detector websites, I also checked the metadata of the image 
 Overall, this activity helped me understand that verifying AI-generated media works best when using multiple methods together. The BBC source gave me a reliable origin for the AI image and confirmed that it was created from AI text prompts. Then the two detection tools, Sightengine and Decopy AI, both analysed the image and gave strong results pointing to it being AI-generated, while also giving useful detail about how they reached that conclusion. Finally, the metadata comparison in Kali Linux added another technical layer, showing that file properties can sometimes provide extra context, even if they are not enough on their own. What I found most useful from this task is that it is better to combine the source of the image, the detector outputs, and the metadata rather than trusting only one tool. This made the activity feel much more practical and realistic.
 
 ### Reference link: https://www.bbc.com/news/uk-wales-65562658
+### Reference link: https://sightengine.com/detect-ai-generated-images
+### Reference link: https://decopy.ai/ai-image-detector/
 ### *Evidences attached on this Github Repository sub-folder*
