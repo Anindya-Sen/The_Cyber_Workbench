@@ -1,4 +1,4 @@
-## A15 – Discover 5 recent security incidents
+# A15 – Discover 5 recent security incidents
 
 
 One recent security incident I found especially serious was the Marks & Spencer (M&S) cyberattack in 2025. What made this incident stand out was that it caused both major business disruption and customer-data exposure. Public reporting showed that M&S had to suspend online clothing and home orders and deal with ongoing disruption across parts of its operations, while later updates confirmed that attackers had also taken some personal customer information. M&S said the stolen data could include contact details, dates of birth, and online order history, although it did not include usable payment-card details or account passwords. Reports about the attack also said the intrusion was linked to social engineering and a third-party contractor pathway, meaning the attackers did not simply smash through a technical wall, but instead gained access by exploiting people and support processes. That makes this incident more than just a normal data breach — it appears to have involved a mix of human manipulation, third-party risk, and large-scale operational disruption. Another major point is the financial impact: widely accessible reporting said M&S expected the attack to cost around £300 million, which shows how expensive a cyberattack can become even after the initial access has already happened. I think this is a very strong example of a recent security incident because it shows how one attack can affect services, customer trust, internal operations, and company finances all at once, and how recovery can take a long time rather than being fixed immediately.
@@ -11,14 +11,14 @@ One recent security incident that stood out to me was the MedImpact ransomware i
 
 Another recent incident I found very detailed was the Crunchyroll breach reported in March 2026. TechRadar reported that the attacker allegedly infected a support agent’s computer at an outsourced provider, accessed the agent’s Okta single sign-on account, and then used that foothold to reach Crunchyroll’s Zendesk support environment and other internal systems. The report said the attacker may have exfiltrated up to 8 million support tickets covering around 6.8 million users, including usernames, emails, IP addresses, geographic information, and ticket contents. Payment information was reportedly not affected unless a user had entered it into a support ticket. There were also claims of a $5 million ransom demand, while Crunchyroll said it was investigating and there was no indication of continued access. What I think makes this incident very strong is that it combines several different security themes: outsourced support risk, identity compromise, administrative platform access, possible extortion, and a very large amount of user-related information. It is a good example of how attackers can do major damage without necessarily breaching the main customer-facing product directly.
 
-Reference link: https://techcrunch.com/2025/05/13/marks-spencer-confirms-customers-personal-data-was-stolen-in-hack/
-https://corporate.marksandspencer.com/cyber-update
-https://www.theguardian.com/business/2025/may/21/cyber-attack-cost-marks-and-spencer-lost-sales-company-results-reveal
-https://www.coinbase.com/en-au/blog/protecting-our-customers-standing-up-to-extortionists
-https://www.adidas-group.com/en/data-security-information
-https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/
-https://www.securityweek.com/adidas-data-breach-linked-to-third-party-vendor/
-https://www.medimpact.com/clients/resources/press-releases/medimpact-statement
-https://www.cybernewscentre.com/29-october-2025-medimpact-qilin-ransomware-attack/
-https://complexdiscovery.com/ransomware-group-claims-attack-on-major-pharmacy-benefit-manager/
-https://www.techradar.com/pro/security/we-are-continuing-to-monitor-the-situation-closely-crunchyroll-investigating-breach-which-reportedly-stole-data-on-6-8-million-users
+### Reference link: https://techcrunch.com/2025/05/13/marks-spencer-confirms-customers-personal-data-was-stolen-in-hack/
+### Reference link: https://corporate.marksandspencer.com/cyber-update
+### Reference link: https://www.theguardian.com/business/2025/may/21/cyber-attack-cost-marks-and-spencer-lost-sales-company-results-reveal
+### Reference link: https://www.coinbase.com/en-au/blog/protecting-our-customers-standing-up-to-extortionists
+### Reference link: https://www.adidas-group.com/en/data-security-information
+### Reference link: https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/
+### Reference link: https://www.securityweek.com/adidas-data-breach-linked-to-third-party-vendor/
+### Reference link: https://www.medimpact.com/clients/resources/press-releases/medimpact-statement
+### Reference link: https://www.cybernewscentre.com/29-october-2025-medimpact-qilin-ransomware-attack/
+### Reference link: https://complexdiscovery.com/ransomware-group-claims-attack-on-major-pharmacy-benefit-manager/
+### Reference link: https://www.techradar.com/pro/security/we-are-continuing-to-monitor-the-situation-closely-crunchyroll-investigating-breach-which-reportedly-stole-data-on-6-8-million-users
