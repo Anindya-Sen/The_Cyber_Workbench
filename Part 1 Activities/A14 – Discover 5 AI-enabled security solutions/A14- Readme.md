@@ -1,4 +1,4 @@
-## A14 – Discover 5 AI-enabled security solutions
+# A14 – Discover 5 AI-enabled security solutions
 
 
 One AI-enabled security solution I found very interesting is Microsoft Security Copilot. I came across it while looking at how large cybersecurity companies are now using AI in real security work rather than only in chat-style tools. Microsoft describes it as a generative AI-powered security solution that helps defenders respond to threats at machine speed and scale, and it can work with products such as Microsoft Defender, Sentinel, Intune, and Entra. What stood out to me is that it is not just giving basic answers like a normal chatbot. It is designed to help security teams investigate incidents, understand alerts, gather threat intelligence, and even automate parts of their workflow. That makes it a strong AI-enabled security solution because the AI is being used directly inside real defensive work instead of only as a general productivity tool.
@@ -11,9 +11,10 @@ One AI-enabled security solution I found quite interesting is Proofpoint’s Nex
 
 Another AI-enabled security solution I found is the Menlo Browser Security Platform. This one stood out because it is focused on the browser itself, which is where people do most of their online work. Menlo explains that its platform secures both human users and AI agents through a single browser-security platform, and its materials also mention threat protection, secure enterprise browsing, data protection, and file security. I found this different from email or endpoint tools because it protects the place where users actually open websites, click links, download files, and interact with web apps. That makes it a strong AI-enabled security solution because it shows AI being used to secure browsing activity directly, which is a very real and practical attack surface.
 
-Reference link: https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot
-https://cloud.google.com/security/products/security-operations
-https://docs.cloud.google.com/chronicle/docs/secops/gemini-chronicle
-https://www.ibm.com/products/qradar-siem/investigation-assistant
-https://www.proofpoint.com/au/products/email-security-and-protection
-https://www.menlosecurity.com/product
+### Reference link: https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot
+### Reference link: https://cloud.google.com/security/products/security-operations
+### Reference link: https://docs.cloud.google.com/chronicle/docs/secops/gemini-chronicle
+### Reference link: https://www.ibm.com/products/qradar-siem/investigation-assistant
+### Reference link: https://www.proofpoint.com/au/products/email-security-and-protection
+### Reference link: https://www.menlosecurity.com/product
+### *Evidences attached on this Github Repository sub-folder*
