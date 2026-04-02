@@ -1,4 +1,4 @@
-## A17 – Discover 10 different types of locks in use
+# A17 – Discover 10 different types of locks in use
 
 
 One of the most common locks I noticed is the padlock. I found this one very practical because it can be used on many different things such as gates, chains, lockers, storage boxes, and even bags. What makes it different from most door locks is that it is not fixed inside the door itself. It is a separate lock that can be attached and removed whenever needed. I found it interesting because it is such a simple lock, but it is still used everywhere in everyday life. It works by securing a metal shackle in place, and depending on the type, it can be opened either with a key or with a number combination.
@@ -21,5 +21,6 @@ A face recognition lock is a more advanced digital lock that checks facial featu
 
 A voice-controlled smart lock is one of the more unusual digital locks I found. What makes it interesting is that it does not work like a normal key or keypad lock. Instead, it connects to a smart-home system and can respond to voice commands through a voice assistant. Yale’s support information explains that its smart locks can work with Google Home and that a user can say commands such as “OK Google, lock my front door” or ask if the door is locked. For unlocking, the system asks for a security PIN, which means the lock is not opened by voice alone. I found this important because it shows that even when a lock becomes more convenient and modern, there is still an extra security step built in. That makes it a strong example of a digital lock because it combines automation, remote access, and voice control while still using a second check to reduce misuse.
 
-Reference link: https://www.assaabloy.com/au/en/stories/blog/rfid-door-locks--smart-entry-systems
-https://www.yalehome.com/au/en/support/product-support/smart-locks-support/yale-home-support
+### Reference link: https://www.assaabloy.com/au/en/stories/blog/rfid-door-locks--smart-entry-systems
+### Reference link: https://www.yalehome.com/au/en/support/product-support/smart-locks-support/yale-home-support
+### *Evidences attached on this Github Repository sub-folder*
