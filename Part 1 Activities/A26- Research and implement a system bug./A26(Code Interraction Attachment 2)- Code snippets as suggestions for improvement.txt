@@ -1,0 +1,32 @@
+given_name = form.get("given_name", "").strip()
+surname = form.get("surname", "").strip()
+other_name = form.get("other_name", "").strip()
+
+errors = []
+
+if not given_name:
+    errors.append("Given name is required.")
+
+if not surname:
+    errors.append("Surname / family name is required.")
+
+# other_name is optional, so no error if blank
+
+
+
+
+
+
+
+
+
+
+
+name_parts = [given_name]
+
+if other_name and other_name.upper() != "N/A":
+    name_parts.append(other_name)
+
+name_parts.append(surname)
+
+full_name = " ".join(name_parts)
