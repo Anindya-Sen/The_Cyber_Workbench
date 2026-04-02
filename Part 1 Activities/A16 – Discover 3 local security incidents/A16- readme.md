@@ -1,4 +1,4 @@
-## A16 – Discover 3 local security incidents
+# A16 – Discover 3 local security incidents
 
 
 One strong local incident was the University of Notre Dame Australia cyber incident in early 2025, which affected its Perth campus and caused long-running disruption for students and staff. The university first confirmed that it was investigating a cyber incident and had reported it to the Australian Cyber Security Centre and other agencies. Later reporting showed the impact was not small or short-lived: students in Perth were still dealing with enrolment problems, timetable access issues, and other system disruptions weeks after the attack. Notre Dame later said that its monitoring had helped detect and limit the impact, but it also confirmed that the attackers had accessed some personal data belonging to staff and students. What makes this incident useful for the task is that it shows how a local cyberattack can affect normal university life in very practical ways, not just through stolen data but also through broken academic processes. In simple terms, this appears to have been a serious university systems compromise with both operational disruption and privacy consequences. The response involved investigation, manual workarounds, coordination with authorities, and public communication while systems were gradually restored.
@@ -7,9 +7,9 @@ Another local incident that stood out was the Harry Perkins Institute of Medical
 
 One of the most unusual local incidents I found was the WA Health data breach involving unencrypted radio communications, which was first publicly reported in 2020 and later revisited in much more detail in 2025. ABC reported that a 15-year-old boy in WA had intercepted confidential Health Department messages using a radio scanner and then published patient information online. The later 2025 ABC piece explained in more depth that he had been experimenting from home and discovered that sensitive public-health data was travelling over unencrypted frequencies. What makes this incident so important is that it was not a classic malware infection or phishing scam at all. Instead, it was a major data-exposure incident caused by insecure communications design. In other words, the weak point was that highly sensitive information was being transmitted in a form that should never have been so easy to intercept. I think this is one of the strongest local incidents because it shows that cybersecurity failures can come from very basic mistakes in how systems are set up, and that the result can still be a major privacy breach affecting health information. The response included public apology, investigation, and a wider discussion about how WA public-health systems handled sensitive data.
 
-Reference link: https://www.notredame.edu.au/news-items/statement-from-the-university-of-notre-dame-australia-cyber-incident-update
-https://www.abc.net.au/news/2025-02-19/university-of-notre-dame-cyber-attack/104955012
-https://www.abc.net.au/news/2024-07-03/harry-perkins-institute-investigates-cyber-security-breach/104054328
-https://www.insurancebusinessmag.com/au/news/cyber/harry-perkins-institute-of-medical-research-targeted-in-major-cyberattack-497636.aspx
-https://www.abc.net.au/news/2025-10-17/joshua-unwittingly-triggered-major-wa-health-data-breach-autism/105455250
-https://www.abc.net.au/news/2020-07-21/teenager-published-confidential-patient-data-on-website/12477376
+### Reference link: https://www.notredame.edu.au/news-items/statement-from-the-university-of-notre-dame-australia-cyber-incident-update
+### Reference link: https://www.abc.net.au/news/2025-02-19/university-of-notre-dame-cyber-attack/104955012
+### Reference link: https://www.abc.net.au/news/2024-07-03/harry-perkins-institute-investigates-cyber-security-breach/104054328
+### Reference link: https://www.insurancebusinessmag.com/au/news/cyber/harry-perkins-institute-of-medical-research-targeted-in-major-cyberattack-497636.aspx
+### Reference link: https://www.abc.net.au/news/2025-10-17/joshua-unwittingly-triggered-major-wa-health-data-breach-autism/105455250
+### Reference link: https://www.abc.net.au/news/2020-07-21/teenager-published-confidential-patient-data-on-website/12477376
