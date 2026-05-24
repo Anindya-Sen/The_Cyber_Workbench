@@ -1,1 +1,19 @@
+# B9. Participate in an industry-related cybersecurity event.
 
+
+For this activity, I participated in an industry-related cybersecurity event where I had the opportunity to learn from Wellington Mavhunduke, who works as a Fraud Detection Analyst at Bankwest. He was invited as a guest lecturer in one of our university courses, and I found the session extremely valuable because it gave me direct exposure to how cybersecurity and fraud detection work in a real professional setting. What made this event especially meaningful is that it was not just a general motivational talk about the industry. Instead, it was focused on real experience, real fraud problems, and the practical side of how cyber and financial crime are handled in the workplace. Hearing from someone who is actively working in the field made the session feel much more real and relevant than simply reading about fraud or cybercrime in theory.
+
+During the session, I learned a lot about Wellington’s own journey into the field and how he eventually built his career in fraud detection. I found that part very useful because it helped me understand that there are many different pathways into cybersecurity and related areas, and that fraud detection is one of the very important industry roles connected to cyber defence. He also spoke about what financial crimes look like in the real world, which was one of the most interesting parts of the event for me. We discussed the different types of scams, emerging fraud trends, and the ways attackers and criminals keep adapting their methods. What stood out to me is that fraud is not always simple or obvious. It can involve subtle suspicious behaviour, unusual transaction patterns, identity misuse, and increasingly more advanced methods of deception.
+
+Another major thing I learned from the event was how organisations use tools and techniques to detect suspicious behaviour. I found this especially interesting because it showed that fraud detection is not only about reacting after damage happens, but also about recognising patterns early, spotting anomalies, and trying to stop harmful activity before it grows into something bigger. He also explained how AI is being weaponised to commit fraud, which made the event feel very current and serious. This part connected strongly with what is happening now in the wider cyber landscape, because AI is making scams, impersonation, and deception more convincing and scalable. That made me realise that cybersecurity professionals now need to think not only about traditional fraud risks, but also about how emerging technologies are changing the threat environment.
+
+After the session, I had the chance to talk with Wellington personally, which made the experience even more worthwhile for me. During our conversation, I learned more about his perspective on the importance of building a strong foundation in cybersecurity, rather than trying to rush too quickly into narrow specialisations without understanding the basics well. He also shared his thoughts on how technologies such as AI and LLMs are shaping both the threat landscape and the career opportunities in the field. I found that part especially helpful because it gave me a more realistic view of how the industry is changing. Overall, this event was a very meaningful industry-related cybersecurity experience for me because it exposed me to a real professional working in fraud detection, helped me understand current fraud and cybercrime issues more deeply, and gave me useful insight into both the technical and career side of this field.
+
+
+
+![Tailgating example](B09-%201.Bankwest-event.png)
+**Figure: Event attendance and personal picture with the guest**
+
+
+![Tailgating example](B09-%202.bankwest-attendance-sheet.png)
+**Figure: Figure: Event attendance sheet**
