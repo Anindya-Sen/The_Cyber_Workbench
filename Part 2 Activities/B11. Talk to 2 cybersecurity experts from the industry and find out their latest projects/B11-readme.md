@@ -18,5 +18,7 @@ I found this conversation very useful because it gave me a much clearer picture 
 
 
 ![Tailgating example](B11-%202.With-Jevon-(Huntress).jpg)
+
+
 **Figure: Talked with Jevon Ang  (SOC Analyst at Huntress)**
 
