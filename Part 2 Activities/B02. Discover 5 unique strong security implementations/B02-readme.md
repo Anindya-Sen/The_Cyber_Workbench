@@ -16,6 +16,7 @@ Another strong security implementation I discovered is that UWA separates its gu
 ![figure](B02-%202.guest%20portal%20login.png)
 **Figure: Guest Portal Login Info**
 
+
 Reference Link: https://ipoint.uwa.edu.au/app/answers/detail/a_id/682/~/internet-in-the-library
 
 
@@ -25,6 +26,7 @@ A really good strong security implementation I discovered was the tight card-bas
 
 
 **Video Evidence Attached on Github**
+
 Reference: https://www.uwa.edu.au/library/visit-our-libraries/library-spaces/accessibility
 
 
