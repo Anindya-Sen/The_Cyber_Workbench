@@ -25,9 +25,13 @@ Lynwood Support is a community-facing NDIS provider. Their website is used by cl
 ## Tools Used
 
 •	securityheaders.com — assessed HTTP security response headers
+
 •	SSL Labs (ssllabs.com) — assessed SSL/TLS certificate and protocol configuration
+
 •	curl on Kali Linux — pulled raw server response headers directly from the terminal
+
 •	Browser page source inspection — checked for version disclosures in the HTML
+
 
 All tools are free and publicly available. None of them send attacks or access anything beyond what a normal browser already sees.
 
@@ -42,19 +46,29 @@ Running the website through securityheaders.com returned a failing grade. Five c
 The headers currently returned by the homepage are:
 
 •	HTTP/2 200
+
 •	x-powered-by: PHP/8.2.31
+
 •	content-type: text/html; charset=UTF-8
+
 •	server: LiteSpeed
+
 
 None of the standard security headers are present. What makes this more notable is that the WordPress login page (/wp-login.php) does send some of these headers correctly — meaning the server is capable of sending them, they just have not been applied to the rest of the site.
 
 
 What each missing header means:
+
 •	X-Frame-Options: Without this, the site can be embedded invisibly in an iframe on a malicious page, enabling clickjacking attacks on contact forms.
+
 •	Content-Security-Policy: Without this, there are no restrictions on which scripts the browser can run — a serious risk if any content injection occurs.
+
 •	Referrer-Policy: Without this, sensitive page names such as /ndis-personal-care are leaked to third-party sites when users click external links.
+
 •	X-Content-Type-Options: Without this, browsers may misinterpret uploaded file types, which can be exploited in certain attack scenarios.
+
 •	Strict-Transport-Security (HSTS): Without this, the first connection attempt always goes over plain HTTP before being redirected, leaving a window for interception on shared networks.
+
 
 
 **Fix:** Add the following to the WordPress .htaccess file or install the free plugin Headers Security Advanced and HSTS WP which applies all of these automatically through the WordPress dashboard.
@@ -88,10 +102,15 @@ Header always unset X-Powered-By
 Viewing the page source reveals the exact version of every major component on the site. The following are directly visible in the HTML:
 
 •	WordPress 7.0 — via a generator meta tag
+
 •	WooCommerce 9.3.3 — via a generator meta tag
+
 •	Elementor 3.25.4 — via a generator meta tag
+
 •	Yoast SEO 23.8 — visible in an HTML comment
+
 •	Over 10 additional plugins — each with their version exposed via ?ver= parameters in stylesheet and script URLs
+
 
 This creates a complete fingerprint of the site's technology stack. An attacker can cross-reference every version against public vulnerability databases and identify exactly which known CVEs apply — all without sending a single malicious request.
 
