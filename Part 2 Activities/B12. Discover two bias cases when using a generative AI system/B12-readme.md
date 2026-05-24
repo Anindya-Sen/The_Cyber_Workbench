@@ -19,4 +19,6 @@ Overall, I found this activity very useful because it helped me understand that 
 
 
 1st prompt ChatGPT response: https://chatgpt.com/share/6a12a35e-c958-83ec-95ae-68b48af0d042
+
+
 2nd prompt ChatGPT response: https://chatgpt.com/share/6a12a6fd-bf20-83ec-94ce-4097dba4a849
