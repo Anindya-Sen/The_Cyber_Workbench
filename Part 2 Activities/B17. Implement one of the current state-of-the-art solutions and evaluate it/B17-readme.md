@@ -15,3 +15,8 @@ Overall, I think this activity was very worthwhile because I did not just read a
 ![Tailgating example](B17-passkey-generation-process.png)
 
 **Figure: Passkey generation process**
+
+
+Reference 1: https://www.cisa.gov/MFA
+
+Reference 2: https://www.google.com/intl/en-GB/account/about/passkeys/
