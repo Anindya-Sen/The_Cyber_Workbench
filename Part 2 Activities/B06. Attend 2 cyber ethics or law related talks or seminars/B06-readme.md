@@ -9,6 +9,8 @@ What I liked most about this webinar was that it showed how much of cybersecurit
 ![Tailgating example](B06-%201.1-nab-webinar.png)
 **Figure: NAB bank webinar attendance**
 
+
+
 ![Tailgating example](B06-%201.2-nab-webinar-ticket.png)
 **Figure: NAB Webinar ticket confirmation**
 
@@ -25,10 +27,13 @@ Another part of the webinar that I found very useful was how it connected cybers
 ![Tailgating example](B06-%202.1-ichem-attendance.png)
 **Figure: IChemE Webinar Attendance**
 
+
+
 ![Tailgating example](B06-%202.2-ichem-e-ticket.png)
 **Figure: IChemE Webinar ticket**
 
 
 
 Reference 1 (NAB): https://www.nab.com.au/about-us/security/online-safety-tips/personal-security-awareness-sessions
+
 Reference 2 (IChemE): https://www.icheme.org/knowledge-networks/communities/member-groups/western-australia/events/webinar-find-out-how-cybersecurity-threats-influence-control-systems-and-process-safety-presented-by-the-icheme-safety-centre/
