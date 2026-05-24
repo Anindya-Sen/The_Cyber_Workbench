@@ -10,10 +10,11 @@ Another reason this event felt valuable to me is that Mark himself is a senior s
 
 
 ![Tailgating example](B07-%201.Mark%20Tearle%20Guest.JPG)
-**Figure: Cuckoo’s Nest Event**
+**Figure: Mark Tearle guest at Cuckoo’s Nest Event**
 
 
 
 
 ![Tailgating example](B07-%202.cuckoo's%20nest%20event.JPG)
-**Figure: Mark Tearle guest at Cuckoo’s Nest Event**
+
+**Figure: Cuckoo’s Nest Event**
